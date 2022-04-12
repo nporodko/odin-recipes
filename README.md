@@ -1,5 +1,5 @@
 # odin-recipes
 
+I'm going to build a basic recipe website
 
-fdew`
-guyiokjnv
+I will use all my HTML knowledge on practice.
